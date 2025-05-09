@@ -1,0 +1,3 @@
+F:/student/it2/P1/170sbirka/cmake-build-debug/CMakeFiles/170sbirka.dir
+F:/student/it2/P1/170sbirka/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/it2/P1/170sbirka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
